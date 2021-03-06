@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**FabianBallar7/FabianBallar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About-Me
+Just a quick description of my background and where you can contact me.
 
-Here are some ideas to get you started:
+I'm trained as a theoretical physicist, mainly concerned with strongly-correlated quantum many-body systems. At the moment I'm getting my master's degree in a joint program between Perimeter Institute and the University of Waterloo. Recently, my attention has shifted greatly towards data science & artificial intelligence. I hope to upload my projects both in physics and data science on this site. I'm always looking forward to discuss topics in physics, machine learning and anything in general.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm actively looking to collaborate on projects. 
+
+- 📫 Contact me:  
+
+[![Mail Badge](https://img.shields.io/badge/-ballarfabian-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ballarfabian@gmail.com)
+
+[![Twitter Badge](https://img.shields.io/badge/-@BallarFabian-1ca0f1?style=flat&labelcolor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BallarFabian)](https://twitter.com/BallarFabian)
+
+[![Linkedin Badge](https://img.shields.io/badge/-FabianBallar-0e76a8?style=flat&labelcolor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fabian-ballar-147579145/)](https://www.linkedin.com/in/fabian-ballar-147579145/)
