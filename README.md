@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm trained as a theoretical physicist, mainly concerned with strongly-correlated quantum many-body systems. At the moment I'm getting my master's degree in a joint program between Perimeter Institute and the University of Waterloo. Recently, my attention has shifted greatly towards data science & artificial intelligence. I hope to upload my projects both in physics and data science on this site. I'm always looking forward to discuss topics in physics, machine learning and anything in general.
+Originally trained as a theoretical physicist, mainly concerned with strongly-correlated quantum many-body systems. At the moment I'm getting my master's degree in a joint program between Perimeter Institute and the University of Waterloo. Recently, my attention has shifted greatly towards data science & artificial intelligence. I hope to upload my projects both in physics and data science on this site. I'm always looking forward to discuss topics in physics, machine learning and anything in general.
 
 I'm actively looking to collaborate on projects. 
 
